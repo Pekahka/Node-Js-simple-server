@@ -6,4 +6,6 @@ npm install express-fileupload
 npm install mongoose
 npm install nodemon
 npm install uuid
+npm install supervisor
+
 When you install all modules write in terminal "npm run dev" and open in your browser "localhost:5000".
